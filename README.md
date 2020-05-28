@@ -2,7 +2,7 @@
 
 耿爽發言模擬器台灣在地化版
 
-![preview.png](https://patricks.tw/GengShuangTW/preview.png)
+<img width="700" alt="preview" src="https://user-images.githubusercontent.com/1984426/83150754-3ea83500-a12e-11ea-8f4b-5eacedf1aae5.png">
 
 
 # Geng Shuang Emulator
