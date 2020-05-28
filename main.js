@@ -341,7 +341,7 @@ function renderText() {
     labelN.innerText = (lang === "sc") ? "发言对象：" : "發言對象："
 
     var labelB = document.getElementById("label-b")
-    labelB.innerText = (lang === "sc") ? "对方干了什么事情：" : "對方幹了什麼事情："
+    labelB.innerText = (lang === "sc") ? "对方做了什么：" : "對方做了什麼："
 
     var labelAttitude = document.getElementById("label-attitude")
     labelAttitude.innerText = (lang === "sc") ? "态度：" : "態度："
@@ -356,7 +356,7 @@ function renderText() {
     btnGenerate.innerText = (lang === "sc") ? "外交部发言人耿爽答记者问" : "外交部發言人耿爽答記者問"
 }
 
-lang = localStorage.getItem("lang") ? localStorage.getItem("lang") : "sc"
+lang = localStorage.getItem("lang") ? localStorage.getItem("lang") : "tc"
 document.querySelectorAll("#lang option[value='"+lang+"']")[0].setAttribute("selected", true)
 
 renderText()
