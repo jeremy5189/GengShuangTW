@@ -1,3 +1,10 @@
+# Geng Shuang Emulator TW
+
+耿爽發言模擬器台灣在地化版
+
+![preview.png](https://patricks.tw/GengShuangTW/preview.png)
+
+
 # Geng Shuang Emulator
 
 耿爽模拟器，用于模仿中国外交部发言人耿爽的言论。[原帖地址(需翻墙)](https://pincong.rocks/article/9938) | [在线体验](https://xwgmdjc.github.io/GengShuang)。
