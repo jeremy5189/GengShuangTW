@@ -324,17 +324,53 @@ function generate() {
     }
 }
 
-function pick(items) {
-    return items[Math.floor(Math.random() * items.length)]
+function pick_index(items) {
+    return Math.floor(Math.random() * items.length)
 }
 
-function random() {
+function pick(items) {
+    return items[pick_index(items)]
+}
+
+function random_legacy() {
     document.getElementById("1").value = pick(countries[lang])
     document.getElementById("2").value = pick(verb[lang]) + pick(ob[lang])
     document.getElementById("ourside").value = '中方'
     document.getElementById("ourstate").value = '中國政府'
     document.getElementById("member").value = '人民'
     document.getElementById("outside_force").value = "外國政府與勢力"
+    generate()
+}
+
+var example = {
+    target: [
+        '性平會', '學生會', '校務會議', '系學會'
+    ],
+    action: [
+        '性騷擾', '不當言論', '缺乏性平意識', '詐賭'
+    ],
+    ourside: [
+        '我會', '我黨', '我社'
+    ],
+    ourstate: [
+        '學生會', '中執會', '社團'
+    ],
+    member: [
+        '成員', '黨員', '社員'
+    ],
+    outside_force: [
+        '外校學生會', '民進黨', '外校其他社團'
+    ]
+}
+
+function random() {
+    idx = pick_index(example.ourside)
+    document.getElementById("1").value = pick(example.target)
+    document.getElementById("2").value = pick(verb[lang]) + pick(example.action)
+    document.getElementById("ourside").value = example.ourside[idx]
+    document.getElementById("ourstate").value = example.ourstate[idx]
+    document.getElementById("member").value = example.member[idx]
+    document.getElementById("outside_force").value = example.outside_force[idx]
     generate()
 }
 
