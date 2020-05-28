@@ -30,11 +30,11 @@ var sentence_negative = {
         "#N如果#B，不仅将损害#OURSIDE利益，损害#OURSTATE和#N关系，也将严重损害#N自身的利益。",
         "#N如果一意孤行，坚持#B，最终必将搬起石头砸自己的脚。",
         "#N#B是搬起石头砸自己的脚。",
-        "我们要正告#N，任何外国政府和势力都无权干预#OURSTATE内政。",
+        "我们要正告#N，任何#OUTSIDE_FORCE都无权干预#OURSTATE内政。",
         "#N的图谋注定失败。",
-        "#OURSTATE政府反对任何外部势力干预#OURSTATE事务的决心坚定不移，维护国家主权、安全、发展利益的决心坚定不移。",
+        "#OURSTATE政府反对任何外部势力干预#OURSTATE事务的决心坚定不移，维护#OURSTATE主权、安全、发展利益的决心坚定不移。",
         "我们奉劝#N不要一意孤行，否则#OURSIDE必将予以坚决反制，由此产生的一切后果必须由#N承担。",
-        "希望#N个别人士能以开放的心态和客观公正的态度对待#OURSTATE，不要无中生有。",
+        "希望#N等个别人士能以开放的心态和客观公正的态度对待#OURSTATE，不要无中生有。",
         "#N有关人士的陈词滥调充满了政治偏见与谎言。",
         "我要强调，#OURSTATE内政不容任何外部反华势力指手画脚。",
         "#OURSTATE一向秉持和平共处五项原则处理国与国关系，历来坚定奉行不干涉内政原则，主张各国根据自身国情选择发展道路。",
@@ -46,11 +46,11 @@ var sentence_negative = {
         "任何妄图否定#OURSTATE的社会主义制度、挑拨#OURSTATE共产党和#OURSTATE#MEMBER关系的政治图谋都注定不会得逞！",
         "我要告诉#N一些政客，人贵有自知之明，请他还是趁早反省一下#N自身的问题，放弃偏见和执念，停止喋喋不休的反华聒噪。",
         "还是我们经常说的那句话，请#N不要高估自己的造谣能力，也不要低估别人的判断能力。谎言重复一千遍，依然还是谎言。",
-        "对于#N干涉#OURSTATE内政、损害#OURSIDE利益的行径，#OURSIDE必将采取有力措施坚决反制。任何人都不要低估#OURSIDE维护国家主权、安全、发展利益的坚定决心。",
+        "对于#N干涉#OURSTATE内政、损害#OURSIDE利益的行径，#OURSIDE必将采取有力措施坚决反制。任何人都不要低估#OURSIDE维护#OURSTATE主权、安全、发展利益的坚定决心。",
         "如果#N一意孤行，#OURSIDE必将采取有力措施予以坚决反制。",
         "我们奉劝某些政客别再浪费#N纳税人的钱，无事生非。",
         "#OURSIDE已就此向#N提出严正交涉，表达强烈抗议。",
-        "我们敦促#N立即停止此类挑衅行为，不要逆势而动，避免损害地区的和平与安宁。#OURSIDE将采取一切必要措施，坚定维护国家主权和安全。",
+        "我们敦促#N立即停止此类挑衅行为，不要逆势而动，避免损害地区的和平与安宁。#OURSIDE将采取一切必要措施，坚定维护#OURSTATE主权和安全。",
         "我们奉劝#N有关媒体和人士尊重已经明确无误的事实和真相，恪守起码的职业道德操守，放下意识形态偏见，摘掉有色眼镜，不要再做不负责任、徒增笑柄的事情。",
         "#N罔顾事实、混淆是非、违反公理，玩弄双重标准，公然插手#OURSTATE事务，干涉#OURSTATE内政，严重违反国际法和国际关系基本准则，#OURSIDE对此表示强烈谴责和坚决反对。",
         "#N任何企图干预#OURSTATE内政、阻碍#OURSTATE发展的把戏都不会得逞，到头来只会是枉费心机一场空。",
@@ -77,11 +77,11 @@ var sentence_negative = {
         "#N如果#B，不僅將損害#OURSIDE利益，損害#OURSTATE和#N關係，也將嚴重損害#N自身的利益。",
         "#N如果一意孤行，堅持#B，最終必將搬起石頭砸自己的腳。",
         "#N#B是搬起石頭砸自己的腳。",
-        "我們要正告#N，任何外國政府和勢力都無權干預#OURSTATE內政。",
+        "我們要正告#N，任何#OUTSIDE_FORCE都無權干預#OURSTATE內政。",
         "#N的圖謀註定失敗。",
-        "#OURSTATE反對任何外部勢力干預#OURSTATE事務的決心堅定不移，維護國家主權、安全、發展利益的決心堅定不移。",
+        "#OURSTATE反對任何外部勢力干預#OURSTATE事務的決心堅定不移，維護#OURSTATE主權、安全、發展利益的決心堅定不移。",
         "我們奉勸#N不要一意孤行，否則#OURSIDE必將予以堅決反制，由此產生的一切後果必須由#N承擔。",
-        "希望#N個別人士能以開放的心態和客觀公正的態度對待#OURSTATE，不要無中生有。",
+        "希望#N等個別人士能以開放的心態和客觀公正的態度對待#OURSTATE，不要無中生有。",
         "#N有關人士的陳詞濫調充滿了政治偏見與謊言。",
         "我要強調，#OURSTATE內政不容任何外部反華勢力指手畫腳。",
         "#OURSTATE一向秉持和平共處五項原則處理國與國關係，歷來堅定奉行不干涉內政原則，主張各國根據自身國情選擇發展道路。",
@@ -93,11 +93,11 @@ var sentence_negative = {
         "任何妄圖否定#OURSTATE的社會主義制度、挑撥#OURSTATE共產黨和#OURSTATE#MEMBER關係的政治圖謀都註定不會得逞！",
         "我要告訴#N一些政客，人貴有自知之明，請他還是趁早反省一下#N自身的問題，放棄偏見和執念，停止喋喋不休的反華聒噪。",
         "還是我們經常說的那句話，請#N不要高估自己的造謠能力，也不要低估別人的判斷能力。謊言重複一千遍，依然還是謊言。",
-        "對於#N干涉#OURSTATE內政、損害#OURSIDE利益的行徑，#OURSIDE必將採取有力措施堅決反制。任何人都不要低估#OURSIDE維護國家主權、安全、發展利益的堅定決心。",
+        "對於#N干涉#OURSTATE內政、損害#OURSIDE利益的行徑，#OURSIDE必將採取有力措施堅決反制。任何人都不要低估#OURSIDE維護#OURSTATE主權、安全、發展利益的堅定決心。",
         "如果#N一意孤行，#OURSIDE必將採取有力措施予以堅決反制。",
         "我們奉勸某些政客別再浪費#N納稅人的錢，無事生非。",
         "#OURSIDE已就此向#N提出嚴正交涉，表達強烈抗議。",
-        "我們敦促#N立即停止此類挑釁行為，不要逆勢而動，避免損害地區的和平與安寧。#OURSIDE將採取一切必要措施，堅定維護國家主權和安全。",
+        "我們敦促#N立即停止此類挑釁行為，不要逆勢而動，避免損害地區的和平與安寧。#OURSIDE將採取一切必要措施，堅定維護#OURSTATE主權和安全。",
         "我們奉勸#N有關媒體和人士尊重已經明確無誤的事實和真相，恪守起碼的職業道德操守，放下意識形態偏見，摘掉有色眼鏡，不要再做不負責任、徒增笑柄的事情。",
         "#N罔顧事實、混淆是非、違反公理，玩弄雙重標準，公然插手#OURSTATE事務，干涉#OURSTATE內政，嚴重違反國際法和國際關係基本準則，#OURSIDE對此表示強烈譴責和堅決反對。",
         "#N任何企圖干預#OURSTATE內政、阻礙#OURSTATE發展的把戲都不會得逞，到頭來只會是枉費心機一場空。",
@@ -257,7 +257,7 @@ function shuffle(sentences){
 }
 
 
-function gengshuang(n, b, ourside, ourstate, member) {
+function gengshuang(n, b, ourside, ourstate, member, outside_force) {
     paragraphs = Math.floor((Math.random() * 3 + 3))
     var i
     var answer = "<b>耿爽：</b>"
@@ -272,16 +272,17 @@ function gengshuang(n, b, ourside, ourstate, member) {
         }
         answer += "<br><br>"
     }
-    return gengshuang_replace(answer, n, b, ourside, ourstate, member)
+    return gengshuang_replace(answer, n, b, ourside, ourstate, member, outside_force)
 }
 
 
-function gengshuang_replace(answer, n, b, ourside, ourstate, member) {
+function gengshuang_replace(answer, n, b, ourside, ourstate, member, outside_force) {
     answer = answer.replace(/#N/g, n)
     answer = answer.replace(/#B/g, b)
     answer = answer.replace(/#OURSIDE/g, ourside)
     answer = answer.replace(/#OURSTATE/g, ourstate)
     answer = answer.replace(/#MEMBER/g, member)
+    answer = answer.replace(/#OUTSIDE_FORCE/g, outside_force)
     return answer
 }
 
@@ -292,6 +293,7 @@ function generate() {
     var ourside = document.getElementById("ourside").value
     var ourstate = document.getElementById("ourstate").value
     var member = document.getElementById("member").value
+    var outside_force = document.getElementById("outside_force").value
 
     var text = document.getElementById("text")
     var attitude = getRadioButtonCheckedValue("attitude")
@@ -313,11 +315,11 @@ function generate() {
         }
         var s = document.createElement("p")
         s_html_tmp = lang === "sc" ? "<b>记者：</b>" + n + b + "，#OURSIDE对此有何回应？" : "<b>記者：</b>" + n + b + "，#OURSIDE對此有何回應？"
-        s_html_tmp = gengshuang_replace(s_html_tmp, n, b, ourside, ourstate, member)
+        s_html_tmp = gengshuang_replace(s_html_tmp, n, b, ourside, ourstate, member, outside_force)
         s.innerHTML = s_html_tmp
         document.getElementById("text").appendChild(s)
         var t = document.createElement("p")
-        t.innerHTML = gengshuang(n, b, ourside, ourstate, member)
+        t.innerHTML = gengshuang(n, b, ourside, ourstate, member, outside_force)
         document.getElementById("text").appendChild(t)
     }
 }
@@ -327,11 +329,12 @@ function pick(items) {
 }
 
 function random() {
-    document.getElementById("2").value = pick(verb[lang]) + pick(ob[lang])
     document.getElementById("1").value = pick(countries[lang])
+    document.getElementById("2").value = pick(verb[lang]) + pick(ob[lang])
     document.getElementById("ourside").value = '中方'
     document.getElementById("ourstate").value = '中國政府'
     document.getElementById("member").value = '人民'
+    document.getElementById("outside_force").value = "外國政府與勢力"
     generate()
 }
 
